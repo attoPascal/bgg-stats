@@ -1,9 +1,21 @@
 import pandas as pd
 import polars as pl
-from datetime import datetime
 
-def data(game_id, release_year=0):
+from datetime import datetime
+from xmlapi2 import Thing
+
+def data(game_id):
     url = f'https://boardgamegeek.com/playsummary/thing/{game_id}'
+    
+    api_response = None
+    while not api_response:
+        try:
+            api_response = Thing(game_id)
+        except:
+            continue
+    
+    yearpublished = api_response.number('yearpublished')
+    
     df = (
         pl.from_pandas(
             pd.read_html(url)[1]
@@ -16,13 +28,9 @@ def data(game_id, release_year=0):
                 .alias('Plays per User')
         )
         .filter(
-            pl.col('Date') < datetime.now()
+            pl.col('Date') < datetime.now(),
+            pl.col('Date').dt.year() >= yearpublished
         )
     )
-
-    if release_year > 0:
-        df = df.filter(
-            pl.col('Date') > datetime(release_year, 1, 1)
-        )
 
     return df
