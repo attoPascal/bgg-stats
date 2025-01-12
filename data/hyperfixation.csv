@@ -1,1001 +1,1001 @@
 hf_rank,bgg_rank,name,hyperfixation
-1,169,Magic: The Gathering,16.2313
-2,808,Star Wars: Unlimited,9.6691
-3,75,Android: Netrunner,6.2779
-4,42,Marvel Champions: The Card Game,5.9498
+1,169,Magic: The Gathering,16.2774
+2,807,Star Wars: Unlimited,9.6691
+3,75,Android: Netrunner,6.4095
+4,42,Marvel Champions: The Card Game,5.946
 5,446,Chess,5.7207
-6,771,Ascension: Deckbuilding Game,5.4797
-7,77,The Crew: The Quest for Planet Nine,5.3415
-8,789,Onirim (Second Edition),5.2635
+6,771,Ascension: Deckbuilding Game,5.6276
+7,790,Onirim (Second Edition),5.5154
+8,77,The Crew: The Quest for Planet Nine,5.4126
 9,37,The Crew: Mission Deep Sea,5.1293
-10,175,The Lord of the Rings: The Card Game,5.0046
-11,164,Star Realms,4.9436
-12,256,KLASK,4.8567
-13,81,Race for the Galaxy,4.6901
-14,224,Go,4.64
-15,708,Star Wars: Destiny,4.5866
-16,251,My City,4.5627
-17,423,The Lord of the Rings: The Card Game – Revised Core Set,4.3098
-18,526,Zombie Kidz Evolution,4.2753
-19,634,One Night Ultimate Werewolf,4.2195
-20,715,A Game of Thrones: The Card Game (Second Edition),4.0854
-21,866,Warhammer: Invasion,4.0714
-22,960,Werewords,4.0314
-23,734,Cribbage,4.0058
-24,769,KeyForge: Call of the Archons,4.0
-25,128,Blood on the Clocktower,3.9647
-26,46,Crokinole,3.88
-27,138,Dominion,3.8566
-28,322,Turing Machine,3.8395
-29,704,Trio,3.6768
-30,961,Mahjong,3.5833
-31,604,Aeon Trespass: Odyssey,3.5763
-32,588,Blood Bowl: Living Rulebook,3.5505
+10,164,Star Realms,5.1086
+11,175,The Lord of the Rings: The Card Game,5.0725
+12,256,KLASK,4.8727
+13,708,Star Wars: Destiny,4.8176
+14,81,Race for the Galaxy,4.6901
+15,251,My City,4.6719
+16,224,Go,4.64
+17,423,The Lord of the Rings: The Card Game – Revised Core Set,4.6028
+18,527,Zombie Kidz Evolution,4.3115
+19,604,Aeon Trespass: Odyssey,4.2989
+20,633,One Night Ultimate Werewolf,4.2195
+21,715,A Game of Thrones: The Card Game (Second Edition),4.1667
+22,769,KeyForge: Call of the Archons,4.1295
+23,866,Warhammer: Invasion,4.0955
+24,960,Werewords,4.0778
+25,734,Cribbage,4.0058
+26,128,Blood on the Clocktower,3.9647
+27,322,Turing Machine,3.886
+28,46,Crokinole,3.88
+29,138,Dominion,3.869
+30,702,Trio,3.6768
+31,961,Mahjong,3.5833
+32,588,Blood Bowl: Living Rulebook,3.5455
 33,4,Gloomhaven,3.5021
-34,40,Sky Team,3.4964
+34,40,Sky Team,3.4961
 35,185,Dominion (Second Edition),3.4889
-36,384,Dorfromantik: The Board Game,3.4493
-37,541,Legacy of Yu,3.4314
-38,654,Pathfinder Adventure Card Game: Rise of the Runelords – Base Set,3.4143
-39,279,Santorini,3.3743
-40,675,Coup,3.3723
-41,78,Kingdom Death: Monster,3.3535
-42,616,Regicide,3.3146
-43,742,One Night Ultimate Werewolf: Daybreak,3.3141
-44,324,Sea Salt & Paper,3.3119
-45,308,Hive,3.2907
-46,386,Neuroshima Hex! 3.0,3.2524
-47,513,Middara: Unintentional Malum – Act 1,3.25
-48,949,Star Wars: The Card Game,3.2344
-49,393,Mindbug: First Contact,3.2165
-50,997,Palm Island,3.2163
-51,589,Etherfields,3.2143
-52,689,Unmatched Game System,3.1868
-53,28,Arkham Horror: The Card Game,3.1675
-54,259,Codenames: Duet,3.1331
-55,551,Friday,3.1203
-56,26,Frosthaven,3.1171
-57,240,Star Realms: Colony Wars,3.1148
-58,215,The Resistance: Avalon,3.1083
-59,563,Blood Bowl (Third Edition),3.108
-60,313,Aeon's End: The New Age,3.0975
-61,260,Fantasy Realms,3.0898
-62,611,Next Station: London,3.0884
-63,307,Star Realms: Frontiers,3.0676
-64,151,Codenames,3.0615
-65,262,Legendary: A Marvel Deck Building Game,3.0475
-66,268,MicroMacro: Crime City,3.0431
-67,334,Lost Cities,3.0366
-68,484,Sprawlopolis,3.0331
-69,2,Pandemic Legacy: Season 1,3.0128
-70,130,The Lord of the Rings: Journeys in Middle-Earth,3.0011
-71,225,Arkham Horror: The Card Game (Revised Edition),3.0
-72,572,Railroad Ink: Deep Blue Edition,3.0
-73,586,Star Wars: X-Wing (Second Edition),3.0
-74,61,Pandemic Legacy: Season 2,2.9829
-75,236,Aeon's End: Legacy,2.967
-76,191,That's Pretty Clever!,2.9644
-77,281,Hero Realms,2.9316
-78,360,Faraway,2.8983
-79,356,Summoner Wars (Second Edition),2.8933
-80,999,Spyfall,2.8896
-81,339,Space Alert,2.8857
-82,410,The Resistance,2.8772
-83,680,Shards of Infinity,2.8537
-84,768,Can't Stop,2.8533
-85,515,MicroMacro: Crime City – Full House,2.8472
-86,108,Tainted Grail: The Fall of Avalon,2.8467
-87,204,Memoir '44,2.8034
-88,466,Codenames: Pictures,2.8033
-89,809,Maquis,2.7957
-90,173,ISS Vanguard,2.7823
-91,11,Gloomhaven: Jaws of the Lion,2.7669
-92,10,Spirit Island,2.7652
-93,14,Through the Ages: A New Story of Civilization,2.759
-94,255,Secret Hitler,2.7579
-95,111,Final Girl,2.7427
-96,879,Tumblin' Dice,2.7304
-97,346,The King's Dilemma,2.7245
-98,265,Deception: Murder in Hong Kong,2.7212
-99,730,Magic Maze,2.7182
-100,682,HeroQuest,2.6957
-101,183,War Chest,2.6915
-102,221,7 Wonders (Second Edition),2.6855
-103,937,Spicy,2.6694
-104,168,It's a Wonderful World,2.6678
-105,509,Advanced Squad Leader,2.6667
-106,686,Bullet♥︎,2.6616
-107,201,Welcome to the Moon,2.6563
-108,3,Ark Nova,2.6557
-109,237,Tichu,2.6495
-110,805,Daybreak,2.6471
-111,121,Ticket to Ride Legacy: Legends of the West,2.6281
-112,784,7 Wonders: Architects,2.6235
-113,900,FUSE,2.6162
-114,244,Forest Shuffle,2.6107
-115,302,Battle Line,2.6076
-116,647,Warp's Edge,2.6009
-117,508,Heroscape Master Set: Rise of the Valkyrie,2.5915
-118,418,Schotten Totten,2.5824
-119,188,Star Wars: X-Wing Miniatures Game,2.5778
-120,552,Hanabi,2.5729
-121,950,Qwixx,2.569
-122,867,Undaunted: Stalingrad,2.5677
-123,110,Slay the Spire: The Board Game,2.5633
-124,945,One Deck Dungeon,2.5571
-125,546,For Northwood! A Solo Trick-Taking Game,2.5556
-126,342,Cloudspire,2.5543
-127,639,Sentinels of the Multiverse,2.5484
-128,120,Dominion: Intrigue,2.5416
-129,964,Challengers!,2.5397
-130,266,"Unmatched: Battle of Legends, Volume One",2.5391
-131,51,Pandemic Legacy: Season 0,2.533
-132,87,Aeon's End,2.5304
-133,762,Escape: The Curse of the Temple,2.5269
-134,598,TZAAR,2.5076
-135,714,HITSTER,2.5062
-136,305,Marvel United,2.5059
-137,400,Harry Potter: Hogwarts Battle,2.5057
-138,712,A Fake Artist Goes to New York,2.5053
-139,913,Up Front,2.5
-140,569,CATAN,2.4881
-141,230,Carcassonne,2.4857
-142,243,Under Falling Skies,2.4571
-143,142,Aeon's End: War Eternal,2.4479
-144,835,The 7th Citadel,2.447
-145,565,Charterstone,2.4379
-146,951,Coffee Roaster,2.4348
-147,331,Onitama,2.4307
-148,838,Roll Player Adventures,2.4244
-149,523,No Thanks!,2.4214
-150,226,Commands & Colors: Ancients,2.4167
-151,971,Jekyll vs. Hyde,2.4143
-152,927,Fugitive,2.4121
-153,433,Twice as Clever!,2.4016
-154,1000,The Mind,2.3981
-155,896,Red7,2.3829
-156,58,Oathsworn: Into the Deepwood,2.379
-157,671,BattleCON: Devastation of Indines,2.375
-158,444,Keep the Heroes Out!,2.3653
-159,645,Draftosaurus,2.3645
-160,758,Summoner Wars,2.3564
-161,127,Harmonies,2.3534
-162,919,The Duke,2.3448
-163,304,So Clover!,2.3443
-164,963,Earthborne Rangers,2.3433
-165,399,Marvel United: X-Men,2.335
-166,820,Caesar!: Seize Rome in 20 Minutes!,2.3285
-167,379,Innovation,2.3243
-168,571,Shadows of Brimstone: City of the Ancients,2.32
-169,959,Rhino Hero,2.3187
-170,812,BANG! The Dice Game,2.318
-171,232,Splendor,2.312
-172,783,Ashes Reborn: Rise of the Phoenixborn,2.3055
-173,362,Summoner Wars: Master Set,2.3049
-174,721,Blood Bowl (2016 Edition),2.2927
-175,219,Paleo,2.2876
-176,497,PitchCar,2.2857
-177,32,Wingspan,2.2759
-178,479,Sword & Sorcery,2.2683
-179,538,"Unmatched: Battle of Legends, Volume Two",2.2674
-180,74,Star Wars: Imperial Assault,2.2603
-181,298,Kingdomino,2.2563
-182,649,Baseball Highlights: 2045,2.2541
-183,662,Knarr,2.2475
-184,161,Hadrian's Wall,2.246
-185,886,Clever Cubed,2.2459
-186,502,Lord of the Rings: The Confrontation,2.2405
-187,748,Trails of Tucana,2.2392
-188,20,7 Wonders Duel,2.233
-189,162,Cartographers,2.2324
-190,205,Descent: Journeys in the Dark (Second Edition),2.227
-191,944,ZÈRTZ,2.2222
-192,195,Welcome To...,2.2155
-193,80,Azul,2.2148
-194,746,Bloodborne: The Board Game,2.211
-195,846,Perudo,2.2101
-196,510,Zombicide: 2nd Edition,2.2099
-197,33,Too Many Bones,2.2083
-198,264,Hanamikoji,2.2078
-199,685,Coloretto,2.2037
-200,351,Love Letter,2.1938
-201,156,Pandemic,2.1897
-202,76,Mechs vs. Minions,2.1888
-203,641,DVONN,2.1835
-204,335,Love Letter,2.1814
-205,499,Mandala,2.1793
-206,98,7 Wonders,2.1741
-207,491,Commands & Colors: Napoleonics,2.1667
-208,582,Port Royal,2.1609
-209,59,Sleeping Gods,2.1607
-210,321,Arcadia Quest,2.1579
-211,834,Warhammer Quest: The Adventure Card Game,2.1579
-212,455,Descent: Legends of the Dark,2.1545
-213,246,Ticket to Ride,2.154
-214,314,Cryptid,2.1514
-215,448,Akropolis,2.144
-216,402,Pax Renaissance: 2nd Edition,2.1411
-217,922,Lovecraft Letter,2.1382
-218,599,Nova Luna,2.1368
-219,738,Mr. Jack,2.1356
-220,749,The Adventures of Robin Hood,2.13
-221,171,Undaunted: Normandy,2.1258
-222,93,Through the Ages: A Story of Civilization,2.1232
-223,7,Terraforming Mars,2.1187
-224,317,Dice Throne: Season Two – Battle Chest,2.1169
-225,443,King of Tokyo,2.1143
-226,184,Legendary Encounters: An Alien Deck Building Game,2.1123
-227,337,Imperium: Classics,2.1031
-228,613,Sushi Go!,2.103
-229,669,Take 5,2.0995
-230,23,Clank! Legacy: Acquisitions Incorporated,2.0956
-231,568,Risk Legacy,2.0932
-232,727,Kingdom Builder,2.0926
-233,449,Skull,2.0886
-234,134,Patchwork,2.0814
-235,807,Shadows of Brimstone: Swamps of Death,2.0811
-236,892,Smart10,2.0811
-237,140,The 7th Continent,2.0736
-238,751,Star Wars: X-Wing Miniatures Game – The Force Awakens Core Set,2.0714
-239,531,Undaunted: North Africa,2.058
-240,247,YINSH,2.0519
-241,192,Radlands,2.047
-242,731,Lord of the Rings: The Confrontation,2.0441
-243,194,Jaipur,2.0436
-244,953,The Lost Expedition,2.0384
-245,657,Dice Throne: Season One,2.0309
-246,755,Railroad Ink Challenge: Lush Green Edition,2.0189
-247,550,BattleLore,2.0109
-248,535,Point Salad,2.0076
-249,856,Azul: Master Chocolatier,2.0
-250,883,Space Hulk,2.0
-251,163,Res Arcana,1.9955
-252,880,Railroad Ink: Blazing Red Edition,1.994
-253,603,The Grizzled,1.992
-254,30,Root,1.9904
-255,310,T.I.M.E Stories,1.9903
-256,973,Zombicide: Invader,1.9896
-257,859,Blokus,1.9868
-258,514,Dawn of the Zeds (Third Edition),1.9859
-259,41,Heat: Pedal to the Metal,1.9856
-260,591,Ingenious,1.9834
-261,329,Telestrations,1.9807
-262,419,Star Wars: Armada,1.9778
-263,494,Mice and Mystics,1.9771
-264,49,Cascadia,1.9759
-265,252,Combat Commander: Europe,1.973
-266,623,Legends of Andor,1.9723
-267,409,San Juan,1.9677
-268,554,Betrayal Legacy,1.9596
-269,309,Skull King,1.959
-270,545,Massive Darkness 2: Hellscape,1.9574
-271,338,For Sale,1.9571
-272,214,Space Base,1.9568
-273,442,Blitzkrieg!: World War Two in 20 Minutes,1.9556
-274,474,Mythic Battles: Pantheon,1.9542
-275,800,Tash-Kalar: Arena of Legends,1.9542
-276,862,Wizard,1.9524
-277,982,Roll Through the Ages: The Bronze Age,1.9512
-278,229,Star Wars: The Deckbuilding Game,1.9499
-279,976,Black Sonata,1.944
-280,943,Ohanami,1.9439
-281,914,Startups,1.9437
-282,407,Ghost Stories,1.9421
-283,56,Agricola,1.9387
-284,836,Tiny Epic Dungeons,1.9372
-285,928,Last Bastion,1.9348
-286,873,Incan Gold,1.9337
-287,698,Zombicide,1.9328
-288,172,Too Many Bones: Undertow,1.9281
-289,154,Roll for the Galaxy,1.9252
-290,574,Raptor,1.925
-291,297,Mind MGMT: The Psychic Espionage “Game.”,1.9231
-292,555,Pandemic: The Cure,1.9225
-293,716,Telestrations: 12 Player Party Pack,1.9184
-294,269,Zombicide: Black Plague,1.9085
-295,464,King of Tokyo: Dark Edition,1.902
-296,482,Imperium: Legends,1.9
-297,595,Splendor: Marvel,1.8933
-298,79,Agricola (Revised Edition),1.8924
-299,553,Potion Explosion,1.8882
-300,801,Top Ten,1.8868
-301,938,Arcadia Quest: Inferno,1.8859
-302,602,Love Letter: Premium Edition,1.8853
-303,97,Robinson Crusoe: Adventures on the Cursed Island,1.8843
-304,536,Stuffed Fables,1.8842
-305,958,Codex Naturalis,1.8823
-306,13,Twilight Struggle,1.8822
-307,267,Sushi Go Party!,1.8788
-308,537,Mystic Vale,1.8765
-309,628,Galaxy Trucker (Second Edition),1.8701
-310,473,Biblios,1.8655
-311,12,Gaia Project,1.8618
-312,152,Just One,1.8592
-313,35,Mage Knight Board Game,1.8587
-314,170,Ticket to Ride: Europe,1.8562
-315,440,Cartographers Heroes,1.8534
-316,794,The Shipwreck Arcana,1.8531
-317,318,Seasons,1.853
-318,210,Sagrada,1.852
-319,29,Lost Ruins of Arnak,1.8517
-320,725,Living Forest,1.8511
-321,105,Decrypto,1.849
-322,796,Space Hulk: Death Angel – The Card Game,1.8489
-323,100,SCOUT,1.8479
-324,661,Azul: Queen's Garden,1.8427
-325,227,Captain Sonar,1.8403
-326,681,Silver & Gold,1.8395
-327,102,The Search for Planet X,1.8372
-328,481,Space Hulk (Third Edition),1.8297
-329,112,Splendor Duel,1.8245
-330,15,The Castles of Burgundy,1.8242
-331,785,Oh My Goods!,1.8158
-332,436,Mage Wars Arena,1.8153
-333,504,Caper: Europe,1.8105
-334,44,Pax Pamir: Second Edition,1.8078
-335,626,Karuba,1.8078
-336,814,Menara,1.8074
-337,57,Cthulhu: Death May Die,1.8072
-338,439,Saint Petersburg,1.8056
-339,48,Puerto Rico,1.8052
-340,793,Carcassonne: The Castle,1.8036
-341,451,Dice Forge,1.8023
-342,724,Taluva,1.8014
-343,618,Unmatched Adventures: Tales to Amaze,1.8005
-344,189,Unmatched: Cobble & Fog,1.8003
-345,848,Rhino Hero: Super Battle,1.799
-346,348,Imperial Settlers,1.7959
-347,813,Wits & Wagers,1.7958
-348,644,Carcassonne: Hunters and Gatherers,1.7949
-349,791,Love Letter: Batman,1.7909
-350,926,Dungeons & Dragons: The Legend of Drizzt Board Game,1.7899
-351,697,Zombicide: Green Horde,1.7857
-352,490,Flash Point: Fire Rescue,1.7831
-353,447,Downforce,1.7755
-354,733,Elder Sign,1.7731
-355,132,Voidfall,1.7696
-356,368,Nusfjord,1.7688
-357,31,Terra Mystica,1.7639
-358,250,Calico,1.7625
-359,811,Earth Reborn,1.7625
-360,527,High Society,1.7618
-361,627,Horizons of Spirit Island,1.7616
-362,261,Camel Up (Second Edition),1.7545
-363,701,Gears of War: The Board Game,1.7518
-364,270,Flamme Rouge,1.7502
-365,564,Descent: Journeys in the Dark,1.75
-366,916,Squad Leader,1.75
-367,986,Thunderstone,1.75
-368,516,The Vale of Eternity,1.7461
-369,596,Fleet: The Dice Game,1.7414
-370,395,Gizmos,1.7383
-371,401,BattleLore: Second Edition,1.7381
-372,62,Obsession,1.7369
-373,18,Scythe,1.7354
-374,737,Pax Renaissance,1.7344
-375,377,Burgle Bros.,1.7332
-376,415,Frostpunk: The Board Game,1.7311
-377,855,Deep Sea Adventure,1.7288
-378,422,The Guild of Merchant Explorers,1.728
-379,373,Project L,1.7275
-380,27,Great Western Trail: Second Edition,1.725
-381,709,Three Sisters,1.7244
-382,524,Imperial Settlers: Empires of the North,1.7242
-383,284,Tapestry,1.7227
-384,996,Istanbul: The Dice Game,1.7214
-385,804,Wir sind das Volk!,1.72
-386,411,"Air, Land, & Sea",1.7069
-387,67,Maracaibo,1.7062
-388,176,Stone Age,1.7057
-389,103,Wingspan Asia,1.7045
-390,276,Glory to Rome,1.7028
-391,966,Evergreen,1.6991
-392,496,Thunderstone Quest,1.6984
-393,441,Arkham Horror,1.6979
-394,500,Claustrophobia,1.6967
-395,740,High Frontier 4 All,1.6951
-396,929,Morels,1.695
-397,775,D-Day at Omaha Beach,1.694
-398,220,Ticket to Ride: Nordic Countries,1.6911
-399,503,The LOOP,1.6911
-400,290,Detective: A Modern Crime Board Game,1.6909
-401,249,Near and Far,1.6881
-402,38,Everdell,1.6861
-403,956,Forbidden Island,1.6827
-404,923,Parade,1.6763
-405,71,Age of Innovation,1.673
-406,648,Pax Porfiriana,1.6721
-407,747,Verdant,1.6696
-408,458,Tiny Towns,1.6694
-409,655,Detective: City of Angels,1.6667
-410,912,Dale of Merchants,1.6667
-411,24,A Feast for Odin,1.6649
-412,17,Dune: Imperium – Uprising,1.6635
-413,403,Takenoko,1.6626
-414,910,Celestia,1.6617
-415,202,This War of Mine: The Board Game,1.6607
-416,728,Cacao,1.6585
-417,405,SETI: Search for Extraterrestrial Intelligence,1.654
-418,365,Tiny Epic Galaxies,1.6523
-419,197,Earth,1.6515
-420,263,Century: Golem Edition,1.6512
-421,528,Bohnanza,1.6484
-422,857,Thunderstone Advance: Towers of Ruin,1.6456
-423,463,San Juan (Second Edition),1.6452
-424,539,Citadels,1.6449
-425,375,Small World,1.6439
-426,703,Conan,1.6429
-427,413,Agricola: All Creatures Big and Small,1.6422
-428,126,Eldritch Horror,1.6388
-429,920,Jambo,1.6388
-430,983,Stella: Dixit Universe,1.6382
-431,692,Whitehall Mystery,1.6377
-432,421,51st State: Master Set,1.6372
-433,847,Advanced Squad Leader: Starter Kit #1,1.6364
-434,975,"13 Days: The Cuban Missile Crisis, 1962",1.6347
-435,350,Nemo's War (Second Edition),1.6343
-436,540,Feed the Kraken,1.6341
-437,238,Nidavellir,1.6332
-438,274,Samurai,1.6316
-439,39,Viticulture Essential Edition,1.6297
-440,366,Destinies,1.627
-441,674,Paperback,1.6267
-442,358,Century: Spice Road,1.6263
-443,68,The Quacks of Quedlinburg,1.6256
-444,853,Eminent Domain,1.6247
-445,196,Planet Unknown,1.6234
-446,385,Arboretum,1.6234
-447,934,Wandering Towers,1.6234
-448,511,Unsettled,1.622
-449,166,Watergate,1.621
-450,293,Chronicles of Crime,1.6194
-451,435,At the Gates of Loyang,1.6176
-452,160,The Isle of Cats,1.6162
-453,117,Tigris & Euphrates,1.616
-454,6,Dune: Imperium,1.6135
-455,570,Thurn and Taxis,1.6128
-456,864,Disney Villainous: The Worst Takes it All,1.6125
-457,319,Dixit: Odyssey,1.6098
-458,389,Bärenpark,1.6094
-459,558,Forbidden Desert,1.6094
-460,476,Wavelength,1.6086
-461,578,"Labyrinth: The War on Terror, 2001 – ?",1.6038
-462,397,Dixit,1.6036
-463,906,Not Alone,1.6028
-464,505,Reign of Cthulhu,1.6008
-465,208,Cosmic Encounter,1.5982
-466,275,Hallertau,1.5968
-467,989,Red Rising,1.5908
-468,122,The Quest for El Dorado,1.5884
-469,869,Kanagawa,1.5874
-470,828,Villagers,1.5839
-471,88,The Lord of the Rings: Duel for Middle-earth,1.5833
-472,779,The Bloody Inn,1.5833
-473,174,Praga Caput Regni,1.5832
-474,404,Ginkgopolis,1.5809
-475,622,The Fox in the Forest,1.5807
-476,519,A Few Acres of Snow,1.5806
-477,609,Camel Up,1.5803
-478,600,Las Vegas,1.5782
-479,585,Pagan: Fate of Roanoke,1.5728
-480,781,Babylonia,1.5714
-481,915,Zombicide Season 2: Prison Outbreak,1.5714
-482,965,Combat Commander: Pacific,1.5714
-483,84,Clank!: A Deck-Building Adventure,1.5688
-484,863,Paris: La Cité de la Lumière,1.5686
-485,406,Mysterium,1.5683
-486,673,Project: ELITE,1.567
-487,782,Tokaido,1.5659
-488,757,Unlock!: Timeless Adventures,1.5658
-489,815,Leaving Earth,1.5652
-490,104,The White Castle,1.565
-491,180,Terraforming Mars: Ares Expedition,1.564
-492,878,Dice Hospital,1.5595
-493,850,CO₂: Second Chance,1.5556
-494,931,Pandemic: Rising Tide,1.5556
-495,990,Last Night on Earth: The Zombie Game,1.5556
-496,213,Horrified,1.555
-497,462,Azul: Stained Glass of Sintra,1.554
-498,94,Revive,1.5497
-499,761,Sub Terra,1.5487
-500,347,The King Is Dead: Second Edition,1.5479
-501,557,Junk Art,1.5479
-502,86,Fields of Arle,1.5467
-503,706,Quantum,1.5459
-504,137,Russian Railroads,1.5445
-505,21,Brass: Lancashire,1.5441
-506,610,Dinosaur Island: Rawr 'n Write,1.5441
-507,426,Unmatched: Robin Hood vs. Bigfoot,1.542
-508,979,Luxor,1.5413
-509,992,Formula Dé,1.5407
-510,457,Cubitos,1.5381
-511,352,Glass Road,1.5374
-512,483,Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures,1.5366
-513,241,The Taverns of Tiefenthal,1.536
-514,542,Canvas,1.5356
-515,363,Awkward Guests: The Walton Case,1.5345
-516,429,Fall of Rome,1.5333
-517,287,Galaxy Trucker,1.5331
-518,149,Iberia,1.5321
-519,871,Ricochet Robots,1.5318
-520,272,Roll Player,1.5309
-521,89,Lords of Waterdeep,1.5299
-522,332,Arkham Horror (Third Edition),1.5295
-523,295,Monikers,1.5292
-524,99,The Voyages of Marco Polo,1.5285
-525,581,Alhambra,1.5273
-526,64,Grand Austria Hotel,1.5267
-527,343,The Great Zimbabwe,1.5244
-528,901,Unlock!: Epic Adventures,1.5224
-529,212,Castles of Mad King Ludwig,1.5209
-530,720,Time's Up!,1.5205
-531,819,Defenders of the Realm,1.52
-532,533,Fantastic Factories,1.5191
-533,92,Beyond the Sun,1.5146
-534,114,Carnegie,1.5139
-535,699,Evolution,1.5136
-536,941,Roam,1.5129
-537,631,Vikings,1.5119
-538,8,War of the Ring: Second Edition,1.5114
-539,69,Clans of Caledonia,1.5113
-540,182,Viscounts of the West Kingdom,1.5112
-541,576,Dune: War for Arrakis,1.5111
-542,145,Arcs,1.5109
-543,917,King of New York,1.5107
-544,687,Scholars of the South Tigris,1.51
-545,745,Chronicles of Crime: 1400,1.5099
-546,344,Cat in the Box: Deluxe Edition,1.5094
-547,593,Blackout: Hong Kong,1.5053
-548,521,Colt Express,1.5045
-549,323,Long Shot: The Dice Game,1.5018
-550,841,New Frontiers,1.5004
-551,370,Wayfarers of the South Tigris,1.5
-552,532,Trekking Through History,1.5
-553,693,War of the Ring: The Card Game,1.5
-554,70,Le Havre,1.4965
-555,875,Caverna: Cave vs Cave,1.4959
-556,159,Wyrmspan,1.4938
-557,665,Unlock!: Heroic Adventures,1.4929
-558,710,Yellow & Yangtze,1.4915
-559,741,Star Wars: The Clone Wars,1.491
-560,36,Barrage,1.49
-561,677,Unmatched: Jurassic Park – InGen vs Raptors,1.4886
-562,217,Azul: Summer Pavilion,1.4869
-563,806,Dragon Castle,1.4836
-564,131,Ra,1.4828
-565,113,Architects of the West Kingdom,1.482
-566,614,First Class: All Aboard the Orient Express!,1.4814
-567,63,Mansions of Madness: Second Edition,1.4805
-568,228,Suburbia,1.4795
-569,909,Inventions: Evolution of Ideas,1.4785
-570,717,The Downfall of Pompeii,1.4762
-571,22,Nemesis,1.4759
-572,101,Darwin's Journey,1.4744
-573,90,Teotihuacan: City of Gods,1.4734
-574,620,Valeria: Card Kingdoms,1.4726
-575,803,Smash Up: Awesome Level 9000,1.4721
-576,158,Targi,1.4718
-577,566,Oceans,1.4715
-578,428,Newton,1.47
-579,475,Andromeda's Edge,1.4699
-580,45,Underwater Cities,1.4672
-581,636,Space Empires 4X,1.4651
-582,357,Bunny Kingdom,1.4643
-583,16,Great Western Trail,1.4642
-584,186,Istanbul,1.4641
-585,713,Formula D,1.4632
-586,416,Blood Bowl: Team Manager – The Card Game,1.4618
-587,242,Paths of Glory,1.4615
-588,607,Runebound (Third Edition),1.4611
-589,43,Food Chain Magnate,1.4598
-590,315,Cthulhu Wars,1.4584
-591,845,New York Zoo,1.4583
-592,987,Ca$h 'n Guns: Second Edition,1.4583
-593,73,Paladins of the West Kingdom,1.4582
-594,50,Caverna: The Cave Farmers,1.4581
-595,65,Tzolk'in: The Mayan Calendar,1.457
-596,711,Betrayal at House on the Hill,1.4544
-597,125,Troyes,1.4532
-598,273,Isle of Skye: From Chieftain to King,1.4486
-599,412,Abyss,1.4471
-600,831,Between Two Cities,1.4468
-601,561,Through the Desert,1.445
-602,663,Weather Machine,1.445
-603,606,RoboRally,1.4444
-604,109,Battlestar Galactica: The Board Game,1.4416
-605,921,Letter Jam,1.4413
-606,766,AuZtralia,1.4412
-607,207,Meadow,1.4411
-608,82,Clank!: Catacombs,1.4409
-609,178,Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases,1.4403
-610,239,Return to Dark Tower,1.4378
-611,380,Raiders of Scythia,1.4367
-612,472,Ready Set Bet,1.4358
-613,349,Survive: Escape from Atlantis!,1.4331
-614,155,PARKS,1.432
-615,843,Reef,1.4317
-616,417,Carpe Diem,1.4315
-617,940,XCOM: The Board Game,1.4305
-618,1,Brass: Birmingham,1.4288
-619,664,Let's Go! To Japan,1.4286
-620,810,Diplomacy,1.4286
-621,233,Dead of Winter: A Crossroads Game,1.4285
-622,825,K2,1.4248
-623,608,Discworld: Ankh-Morpork,1.424
-624,827,My Little Scythe,1.4236
-625,642,Time's Up! Title Recall!,1.4222
-626,301,Oath,1.4214
-627,495,Woodcraft,1.4193
-628,765,The Oracle of Delphi,1.4177
-629,123,Caylus,1.4167
-630,707,Hammer of the Scots,1.4167
-631,529,Unmatched: Little Red Riding Hood vs. Beowulf,1.4165
-632,729,Beer & Bread,1.4153
-633,361,Bruges,1.4129
-634,394,Letters from Whitechapel,1.4125
-635,824,Empire of the Sun: The Pacific War 1941-1945,1.4118
-636,517,Glen More,1.4106
-637,165,Tyrants of the Underdark,1.4084
-638,371,Thunder Road: Vendetta,1.4081
-639,736,Trains,1.4076
-640,573,Aquatica,1.4056
-641,414,Dead Reckoning,1.4044
-642,312,Forgotten Waters,1.4031
-643,139,Age of Steam,1.4029
-644,530,Hadara,1.4029
-645,849,Yspahan,1.4021
-646,522,Citadels,1.401
-647,969,Life of the Amazonia,1.4
-648,398,Tekhenu: Obelisk of the Sun,1.399
-649,157,Rajas of the Ganges,1.3973
-650,118,Raiders of the North Sea,1.3971
-651,872,Circadians: First Light,1.3967
-652,592,Freedom: The Underground Railroad,1.3964
-653,858,Finca,1.3955
-654,889,SpaceCorp: 2025-2300AD,1.3953
-655,47,Kanban EV,1.3952
-656,34,Orléans,1.3949
-657,894,Unfair,1.3947
-658,206,The Red Cathedral,1.3938
-659,797,Trismegistus: The Ultimate Formula,1.3924
-660,678,Cooper Island,1.3916
-661,116,Great Western Trail: New Zealand,1.3897
-662,53,On Mars,1.3892
-663,54,Blood Rage,1.3889
-664,66,Power Grid,1.3887
-665,424,Hannibal: Rome vs. Carthage,1.3871
-666,52,Anachrony,1.3866
-667,547,Shadows over Camelot,1.3862
-668,823,Messina 1347,1.3861
-669,559,Deus,1.3855
-670,83,Five Tribes: The Djinns of Naqala,1.3849
-671,181,Nucleum,1.3849
-672,147,Clank! In! Space!: A Deck-Building Adventure,1.3841
-673,676,The Colonists,1.3837
-674,85,Eclipse: New Dawn for the Galaxy,1.3836
-675,605,Wabash Cannonball,1.3816
-676,107,Inis,1.3811
-677,425,Expeditions,1.3801
-678,291,Viticulture,1.3798
-679,908,Merchants Cove,1.378
-680,248,Nations,1.3764
-681,735,Mille Fiori,1.3764
-682,381,Bonfire,1.3761
-683,465,Evolution: Climate,1.3758
-684,562,Mansions of Madness,1.3758
-685,258,La Granja,1.3755
-686,199,War of the Ring,1.375
-687,453,In the Year of the Dragon,1.375
-688,587,1846: The Race for the Midwest,1.3727
-689,995,Pictomania,1.3718
-690,939,Stationfall,1.3716
-691,972,Zoo Vadis,1.3707
-692,294,Lewis & Clark: The Expedition,1.3704
-693,193,Xia: Legends of a Drift System,1.37
-694,702,Golem,1.3692
-695,560,Sheriff of Nottingham,1.3675
-696,306,Tiletum,1.3668
-697,209,Sekigahara: The Unification of Japan,1.3663
-698,851,Khôra: Rise of an Empire,1.3658
-699,203,Star Wars: Outer Rim,1.3651
-700,288,Anno 1800: The Board Game,1.3628
-701,211,Great Western Trail: Argentina,1.3626
-702,136,Trajan,1.3606
-703,190,Marco Polo II: In the Service of the Khan,1.3602
-704,135,Nemesis: Lockdown,1.3601
-705,567,Imhotep,1.3597
-706,489,Stockpile,1.3596
-707,187,Glen More II: Chronicles,1.3595
-708,650,Queendomino,1.3592
-709,629,Archipelago,1.3588
-710,739,Fort,1.3587
-711,167,Alchemists,1.3551
-712,333,Apiary,1.3545
-713,471,Firefly: The Game,1.3525
-714,460,Boonlake,1.3515
-715,119,Dwellings of Eldervale,1.3498
-716,918,Clinic: Deluxe Edition,1.3472
-717,759,Twilight Inscription,1.3453
-718,852,Ezra and Nehemiah,1.3441
-719,575,World Wonders,1.3436
-720,320,Distilled,1.3433
-721,763,The Magnificent,1.3432
-722,774,Ticket to Ride: Rails & Sails,1.3425
-723,60,Lisboa,1.3409
-724,216,Railways of the World,1.3394
-725,518,Pipeline,1.3383
-726,355,Tikal,1.3371
-727,72,The Gallerist,1.3364
-728,277,Vindication,1.3364
-729,378,Merchants & Marauders,1.3364
-730,753,Snowdonia,1.3363
-731,580,QE,1.3347
-732,25,Concordia,1.3333
-733,222,A Game of Thrones: The Board Game (Second Edition),1.3333
-734,285,1830: Railways & Robber Barons,1.3333
-735,383,Dead of Winter: The Long Night,1.3333
-736,688,Medici,1.3333
-737,787,Dixit: Journey,1.3333
-738,904,Hannibal & Hamilcar,1.3333
-739,968,Evacuation,1.3333
-740,621,Jamaica,1.3327
-741,478,Imperial Struggle,1.3324
-742,597,Skymines,1.332
-743,316,Ethnos,1.3318
-744,792,Century: A New World,1.3315
-745,776,Treasure Island,1.3289
-746,525,Black Rose Wars,1.3282
-747,345,Acquire,1.3277
-748,390,Sid Meier's Civilization: The Board Game,1.3268
-749,96,Concordia Venus,1.3256
-750,970,Star Trek: Fleet Captains,1.3256
-751,456,London (Second Edition),1.3254
-752,493,Kingsburg,1.3254
-753,893,Cerebria: The Inside World,1.325
-754,364,Heaven & Ale,1.3243
-755,480,Santa Maria,1.3237
-756,666,Creature Comforts,1.3234
-757,148,Forbidden Stars,1.3226
-758,218,Modern Art,1.3212
-759,391,Furnace,1.3205
-760,977,Washington's War,1.32
-761,254,John Company: Second Edition,1.3191
-762,115,Keyflower,1.3184
-763,854,Blue Moon City,1.3182
-764,9,Star Wars: Rebellion,1.318
-765,659,Roads & Boats,1.3179
-766,902,Black Angel,1.3178
-767,488,Nippon,1.3166
-768,353,The Witcher: Old World,1.3153
-769,660,Egizia,1.315
-770,437,Marrakesh,1.3148
-771,667,Tobago,1.3148
-772,833,Century: Eastern Wonders,1.3136
-773,905,Vast: The Crystal Caverns,1.313
-774,124,Lorenzo il Magnifico,1.3128
-775,984,Carcassonne: The City,1.3125
-776,19,Eclipse: Second Dawn for the Galaxy,1.3114
-777,882,Ex Libris,1.311
-778,253,Cyclades,1.3107
-779,289,Endless Winter: Paleoamericans,1.3107
-780,637,StarCraft: The Board Game,1.3107
-781,520,Quadropolis,1.3102
-782,925,Brazil: Imperial,1.3099
-783,874,Blue Lagoon,1.3097
-784,691,Barcelona,1.3095
-785,974,Civolution,1.3095
-786,143,Hansa Teutonica,1.3091
-787,695,The Battle of Five Armies,1.3077
-788,501,Black Orchestra,1.3072
-789,144,Vinhos: Deluxe Edition,1.3056
-790,234,Ankh: Gods of Egypt,1.3054
-791,150,Yokohama,1.3053
-792,865,The Pursuit of Happiness,1.3045
-793,133,Twilight Imperium: Third Edition,1.3043
-794,280,Kanban: Driver's Edition,1.3028
-795,432,Notre Dame,1.3028
-796,876,Crown of Emara,1.3012
-797,830,Specter Ops,1.3001
-798,454,Ticket to Ride: Märklin,1.3
-799,705,First Rat,1.3
-800,924,Tang Garden,1.2992
-801,816,City of the Big Shoulders,1.299
-802,420,Lords of Hellas,1.2976
-803,933,Among the Stars,1.2965
-804,534,Fire in the Lake,1.2963
-805,507,Libertalia: Winds of Galecrest,1.2959
-806,584,Kutná Hora: The City of Silver,1.2948
-807,881,Saint Petersburg (Second Edition),1.2941
-808,492,Macao,1.2933
-809,652,Nexus Ops,1.2928
-810,632,Euphoria: Build a Better Dystopia,1.2922
-811,106,Trickerion: Legends of Illusion,1.2917
-812,200,Chaos in the Old World,1.2909
-813,257,Dinosaur Island,1.2899
-814,818,Witchstone,1.2897
-815,668,Triumph & Tragedy: European Balance of Power 1936-1945,1.2895
-816,679,Cuba Libre,1.2895
-817,382,Above and Below,1.2884
-818,590,1775: Rebellion,1.2883
-819,640,Unconscious Mind,1.2881
-820,445,Honey Buzz,1.2865
-821,91,El Grande,1.2864
-822,700,A Game of Thrones,1.2857
-823,726,Disney Villainous: Wicked to the Core,1.2857
-824,612,Libertalia,1.2851
-825,336,Dungeon Petz,1.2846
-826,396,Dungeon Lords,1.2835
-827,957,Reef Encounter,1.2813
-828,750,Civilization: A New Dawn,1.2812
-829,376,Flamecraft,1.2798
-830,372,Runewars,1.2797
-831,767,Torres,1.2789
-832,325,The Manhattan Project: Energy Empire,1.2781
-833,296,Bitoku,1.2776
-834,55,Hegemony: Lead Your Class to Victory,1.2764
-835,743,Merv: The Heart of the Silk Road,1.276
-836,387,Antiquity,1.2736
-837,633,Madeira,1.2727
-838,935,1989: Dawn of Freedom,1.2727
-839,153,Champions of Midgard,1.2714
-840,235,Clash of Cultures: Monumental Edition,1.2714
-841,292,1960: The Making of the President,1.2703
-842,723,Between Two Castles of Mad King Ludwig,1.2703
-843,988,Catacombs (Third Edition),1.2703
-844,844,Detective Club,1.2702
-845,485,Millennium Blades,1.2694
-846,788,The Estates,1.2673
-847,998,Beast,1.2652
-848,327,Foundations of Rome,1.2648
-849,625,Last Will,1.2642
-850,643,Tales of the Arabian Nights,1.2638
-851,231,Village,1.2635
-852,369,Alien Frontiers,1.2608
-853,271,The Princes of Florence,1.2603
-854,299,Bora Bora,1.2596
-855,624,Elysium,1.2595
-856,840,Moonrakers,1.2588
-857,179,Endeavor: Age of Sail,1.2587
-858,651,Crusaders: Thy Will Be Done,1.2581
-859,477,The Great Wall,1.2574
-860,594,Small World Underground,1.2572
-861,431,The Pillars of the Earth,1.2569
-862,946,Friedrich,1.2564
-863,300,Steam,1.2558
-864,506,The Manhattan Project,1.2532
-865,890,Super Motherload,1.2526
-866,461,Bruxelles 1893,1.2522
-867,778,Federation,1.2507
-868,802,Fury of Dracula (Second Edition),1.25
-869,756,Shakespeare,1.2489
-870,438,Gùgōng,1.2472
-871,764,Disney Villainous: Evil Comes Prepared,1.247
-872,177,Kemet,1.2466
-873,223,Ora et Labora,1.2466
-874,962,Spyrium,1.2453
-875,198,Dune,1.245
-876,427,Altiplano,1.244
-877,469,Spartacus: A Game of Blood and Treachery,1.2439
-878,947,Imperial Steam,1.2439
-879,583,Escape Plan,1.2415
-880,328,Imperial,1.2414
-881,656,Star Trek: Ascendancy,1.2407
-882,617,Lacrimosa,1.2402
-883,860,Middle-Earth Quest,1.2383
-884,885,World Without End,1.2376
-885,615,London,1.2361
-886,795,Myrmes,1.2353
-887,282,Pulsar 2849,1.2349
-888,549,Lords of Vegas,1.2336
-889,245,Coimbra,1.2332
-890,487,Clash of Cultures,1.2308
-891,646,Broom Service,1.23
-892,129,Mombasa,1.2299
-893,895,Cry Havoc,1.2283
-894,696,Carson City,1.2273
-895,341,Age of Empires III: The Age of Discovery,1.2265
-896,278,Western Legends,1.2261
-897,630,Atlantis Rising (Second Edition),1.2261
-898,832,The Networks,1.2248
-899,670,AquaSphere,1.2244
-900,821,Steampunk Rally,1.224
-901,719,Photosynthesis,1.2235
-902,459,IKI,1.2228
-903,772,Cuba,1.2222
-904,790,Shikoku 1889,1.2222
-905,638,In the Hall of the Mountain King,1.2215
-906,658,Vinhos,1.2211
-907,888,Raccoon Tycoon,1.2204
-908,870,878 Vikings: Invasions of England,1.2195
-909,5,Twilight Imperium: Fourth Edition,1.2193
-910,548,Amerigo,1.2185
-911,993,Akrotiri,1.2182
-912,760,Feudum,1.2174
-913,955,Rurik: Dawn of Kiev,1.2168
-914,367,Chinatown,1.2156
-915,467,Pan Am,1.2153
-916,330,Navegador,1.2152
-917,981,Hyperborea,1.2143
-918,897,Gentes,1.2142
-919,932,Outlive,1.2137
-920,732,Brian Boru: High King of Ireland,1.2136
-921,899,"Heroes of Land, Air & Sea",1.2132
-922,694,Thebes,1.213
-923,786,Luna,1.2105
-924,486,Fresco,1.2101
-925,388,Mission: Red Planet (Second/Third Edition),1.2097
-926,354,Fury of Dracula (Third/Fourth Edition),1.209
-927,408,Maria,1.2083
-928,283,Goa: A New Expedition,1.2073
-929,430,Smartphone Inc.,1.2061
-930,877,Disney Villainous: Perfectly Wretched,1.2059
-931,930,Battle for Rokugan,1.2051
-932,619,Airlines Europe,1.2034
-933,95,Dominant Species,1.2
-934,146,Wonderland's War,1.2
-935,498,Dune,1.2
-936,861,Wallenstein,1.2
-937,936,Lords of Xidit,1.1986
-938,672,My Father's Work,1.1984
-939,434,The Godfather: Corleone's Empire,1.1965
-940,141,Rising Sun,1.1948
-941,868,Shipyard,1.1944
-942,980,Caylus 1303,1.194
-943,722,Mare Nostrum: Empires,1.1918
-944,754,Churchill,1.1852
-945,948,Tribune: Primus Inter Pares,1.1852
-946,340,Power Grid Deluxe: Europe/North America,1.1826
-947,942,Dinosaur World,1.1819
-948,286,Shogun,1.1818
-949,326,Indonesia,1.1818
-950,837,Vegas Showdown,1.1818
-951,985,Nightmare Productions,1.1818
-952,887,A War of Whispers,1.1792
-953,311,Rococo,1.1782
-954,817,Prêt-à-Porter,1.1763
-955,826,Coal Baron,1.1762
-956,452,Endeavor,1.1739
-957,303,Kemet: Blood and Sand,1.1734
-958,512,Lancaster,1.1728
-959,911,Abomination: The Heir of Frankenstein,1.1707
-960,577,Argent: The Consortium,1.1702
-961,744,Dominant Species: Marine,1.1693
-962,770,Belfort,1.1686
-963,470,Here I Stand,1.1667
-964,579,Bus,1.1667
-965,829,ZhanGuo,1.1667
-966,898,Santiago,1.1667
-967,952,Vasco da Gama,1.1667
-968,967,Yedo,1.1667
-969,994,Union Pacific,1.1667
-970,822,Crystal Palace,1.1648
-971,907,Panamax,1.1613
-972,544,Amun-Re,1.1606
-973,799,Arkwright,1.16
-974,777,Whistle Mountain,1.1565
-975,718,Mosaic: A Story of Civilization,1.1558
-976,359,Imperial 2030,1.1538
-977,780,Yamataï,1.1494
-978,653,Colosseum,1.1467
-979,752,The Republic of Rome,1.1464
-980,468,Civilization,1.1429
-981,543,Endeavor: Deep Sea,1.1429
-982,978,Container,1.1429
-983,954,Scoville,1.1404
-984,684,Automobile,1.1378
-985,392,Sidereal Confluence,1.1343
-986,991,San Marco,1.1325
-987,635,Taj Mahal,1.1314
-988,839,Dogs of War,1.1297
-989,773,Mexica,1.129
-990,601,Unfathomable,1.125
-991,690,Francis Drake,1.122
-992,683,Struggle of Empires,1.1111
-993,903,Tammany Hall,1.1042
-994,842,La Granja: Deluxe Master Set,1.1
-995,884,Empires: Age of Discovery,1.0968
-996,450,Die Macher,1.0597
-997,374,Exit: The Game – The Abandoned Cabin,1.02
-998,556,Exit: The Game – Dead Man on the Orient Express,1.0187
-999,891,Exit: The Game – The Secret Lab,1.0155
-1000,798,Exit: The Game – The Pharaoh's Tomb,1.0088
+36,541,Legacy of Yu,3.4759
+37,654,Pathfinder Adventure Card Game: Rise of the Runelords – Base Set,3.4618
+38,383,Dorfromantik: The Board Game,3.4493
+39,675,Coup,3.4181
+40,949,Star Wars: The Card Game,3.4085
+41,279,Santorini,3.3743
+42,78,Kingdom Death: Monster,3.3535
+43,615,Regicide,3.3445
+44,743,One Night Ultimate Werewolf: Daybreak,3.3417
+45,309,Hive,3.3131
+46,324,Sea Salt & Paper,3.3119
+47,386,Neuroshima Hex! 3.0,3.2912
+48,689,Unmatched Game System,3.2778
+49,997,Palm Island,3.2717
+50,516,Middara: Unintentional Malum – Act 1,3.25
+51,393,Mindbug: First Contact,3.2165
+52,589,Etherfields,3.2143
+53,259,Codenames: Duet,3.1955
+54,240,Star Realms: Colony Wars,3.1923
+55,611,Next Station: London,3.1842
+56,28,Arkham Horror: The Card Game,3.1675
+57,551,Friday,3.1203
+58,26,Frosthaven,3.1171
+59,215,The Resistance: Avalon,3.1083
+60,563,Blood Bowl (Third Edition),3.108
+61,307,Star Realms: Frontiers,3.1056
+62,359,Faraway,3.1054
+63,313,Aeon's End: The New Age,3.1038
+64,261,Fantasy Realms,3.0898
+65,225,Arkham Horror: The Card Game (Revised Edition),3.0852
+66,151,Codenames,3.0772
+67,571,Railroad Ink: Deep Blue Edition,3.0605
+68,262,Legendary: A Marvel Deck Building Game,3.0516
+69,483,Sprawlopolis,3.0496
+70,268,MicroMacro: Crime City,3.0431
+71,334,Lost Cities,3.0414
+72,61,Pandemic Legacy: Season 2,3.0377
+73,2,Pandemic Legacy: Season 1,3.0128
+74,130,The Lord of the Rings: Journeys in Middle-Earth,3.0081
+75,586,Star Wars: X-Wing (Second Edition),3.0
+76,236,Aeon's End: Legacy,2.967
+77,191,That's Pretty Clever!,2.9644
+78,110,Slay the Spire: The Board Game,2.9492
+79,999,Spyfall,2.9418
+80,281,Hero Realms,2.9316
+81,410,The Resistance,2.9006
+82,356,Summoner Wars (Second Edition),2.8933
+83,339,Space Alert,2.8857
+84,515,MicroMacro: Crime City – Full House,2.8592
+85,680,Shards of Infinity,2.8537
+86,768,Can't Stop,2.8533
+87,108,Tainted Grail: The Fall of Avalon,2.8467
+88,204,Memoir '44,2.8178
+89,809,Maquis,2.8081
+90,465,Codenames: Pictures,2.8033
+91,173,ISS Vanguard,2.7823
+92,11,Gloomhaven: Jaws of the Lion,2.7669
+93,10,Spirit Island,2.7648
+94,14,Through the Ages: A New Story of Civilization,2.759
+95,254,Secret Hitler,2.7579
+96,783,7 Wonders: Architects,2.7493
+97,127,Harmonies,2.7474
+98,111,Final Girl,2.7427
+99,682,HeroQuest,2.7417
+100,685,Bullet♥︎,2.7393
+101,346,The King's Dilemma,2.7375
+102,876,Tumblin' Dice,2.7346
+103,265,Deception: Murder in Hong Kong,2.7212
+104,730,Magic Maze,2.7182
+105,183,War Chest,2.7044
+106,221,7 Wonders (Second Edition),2.6859
+107,243,Forest Shuffle,2.6829
+108,937,Spicy,2.6723
+109,168,It's a Wonderful World,2.6693
+110,507,Advanced Squad Leader,2.6667
+111,963,Earthborne Rangers,2.6582
+112,237,Tichu,2.6581
+113,201,Welcome to the Moon,2.6563
+114,3,Ark Nova,2.6555
+115,964,Challengers!,2.6547
+116,805,Daybreak,2.6471
+117,900,FUSE,2.6363
+118,509,Heroscape Master Set: Rise of the Valkyrie,2.6292
+119,121,Ticket to Ride Legacy: Legends of the West,2.6211
+120,945,One Deck Dungeon,2.6207
+121,303,Battle Line,2.6076
+122,950,Qwixx,2.6047
+123,647,Warp's Edge,2.5901
+124,552,Hanabi,2.5871
+125,418,Schotten Totten,2.5824
+126,342,Cloudspire,2.581
+127,188,Star Wars: X-Wing Miniatures Game,2.5778
+128,641,Sentinels of the Multiverse,2.575
+129,867,Undaunted: Stalingrad,2.5677
+130,120,Dominion: Intrigue,2.5602
+131,835,The 7th Citadel,2.5575
+132,547,For Northwood! A Solo Trick-Taking Game,2.5453
+133,401,Harry Potter: Hogwarts Battle,2.541
+134,87,Aeon's End,2.5374
+135,51,Pandemic Legacy: Season 0,2.533
+136,266,"Unmatched: Battle of Legends, Volume One",2.5278
+137,762,Escape: The Curse of the Temple,2.5269
+138,598,TZAAR,2.5185
+139,712,HITSTER,2.5062
+140,305,Marvel United,2.5059
+141,433,Twice as Clever!,2.5053
+142,711,A Fake Artist Goes to New York,2.5053
+143,913,Up Front,2.5
+144,569,CATAN,2.4881
+145,230,Carcassonne,2.4842
+146,331,Onitama,2.4781
+147,565,Charterstone,2.4636
+148,244,Under Falling Skies,2.4609
+149,142,Aeon's End: War Eternal,2.4479
+150,58,Oathsworn: Into the Deepwood,2.4358
+151,951,Coffee Roaster,2.4348
+152,522,No Thanks!,2.433
+153,839,Roll Player Adventures,2.4244
+154,226,Commands & Colors: Ancients,2.4215
+155,927,Fugitive,2.4208
+156,971,Jekyll vs. Hyde,2.4143
+157,896,Red7,2.4141
+158,720,Blood Bowl (2016 Edition),2.4029
+159,1000,The Mind,2.3981
+160,671,BattleCON: Devastation of Indines,2.3889
+161,645,Draftosaurus,2.3886
+162,304,So Clover!,2.3859
+163,758,Summoner Wars,2.375
+164,538,"Unmatched: Battle of Legends, Volume Two",2.3745
+165,444,Keep the Heroes Out!,2.3653
+166,919,The Duke,2.3574
+167,378,Innovation,2.3402
+168,400,Marvel United: X-Men,2.335
+169,959,Rhino Hero,2.331
+170,80,Azul,2.3285
+171,812,BANG! The Dice Game,2.3244
+172,232,Splendor,2.3202
+173,572,Shadows of Brimstone: City of the Ancients,2.32
+174,820,Caesar!: Seize Rome in 20 Minutes!,2.3084
+175,784,Ashes Reborn: Rise of the Phoenixborn,2.3055
+176,362,Summoner Wars: Master Set,2.3049
+177,479,Sword & Sorcery,2.3023
+178,219,Paleo,2.2944
+179,498,PitchCar,2.2887
+180,74,Star Wars: Imperial Assault,2.2846
+181,32,Wingspan,2.2758
+182,162,Cartographers,2.2709
+183,298,Kingdomino,2.2707
+184,161,Hadrian's Wall,2.2595
+185,649,Baseball Highlights: 2045,2.2541
+186,502,Lord of the Rings: The Confrontation,2.2523
+187,747,Trails of Tucana,2.2494
+188,662,Knarr,2.2475
+189,884,Clever Cubed,2.2459
+190,20,7 Wonders Duel,2.233
+191,944,ZÈRTZ,2.2278
+192,205,Descent: Journeys in the Dark (Second Edition),2.227
+193,59,Sleeping Gods,2.2252
+194,264,Hanamikoji,2.2171
+195,195,Welcome To...,2.2151
+196,686,Coloretto,2.2135
+197,745,Bloodborne: The Board Game,2.211
+198,846,Perudo,2.2101
+199,510,Zombicide: 2nd Edition,2.2099
+200,33,Too Many Bones,2.2083
+201,352,Love Letter,2.2018
+202,156,Pandemic,2.1978
+203,246,Ticket to Ride,2.1908
+204,76,Mechs vs. Minions,2.1888
+205,640,DVONN,2.1863
+206,317,Dice Throne: Season Two – Battle Chest,2.1841
+207,499,Mandala,2.1839
+208,335,Love Letter,2.1814
+209,314,Cryptid,2.1794
+210,98,7 Wonders,2.1741
+211,489,Commands & Colors: Napoleonics,2.1667
+212,140,The 7th Continent,2.1647
+213,93,Through the Ages: A Story of Civilization,2.1632
+214,582,Port Royal,2.1609
+215,448,Akropolis,2.1592
+216,321,Arcadia Quest,2.1579
+217,834,Warhammer Quest: The Adventure Card Game,2.1579
+218,455,Descent: Legends of the Dark,2.1491
+219,751,Star Wars: X-Wing Miniatures Game – The Force Awakens Core Set,2.1429
+220,739,Mr. Jack,2.1414
+221,403,Pax Renaissance: 2nd Edition,2.1411
+222,922,Lovecraft Letter,2.1382
+223,599,Nova Luna,2.1368
+224,171,Undaunted: Normandy,2.1363
+225,749,The Adventures of Robin Hood,2.13
+226,443,King of Tokyo,2.1233
+227,7,Terraforming Mars,2.1187
+228,184,Legendary Encounters: An Alien Deck Building Game,2.1161
+229,337,Imperium: Classics,2.1097
+230,856,Azul: Master Chocolatier,2.106
+231,613,Sushi Go!,2.1059
+232,214,Space Base,2.1043
+233,890,Smart10,2.099
+234,668,Take 5,2.0984
+235,23,Clank! Legacy: Acquisitions Incorporated,2.0956
+236,568,Risk Legacy,2.0942
+237,449,Skull,2.0933
+238,727,Kingdom Builder,2.0926
+239,808,Shadows of Brimstone: Swamps of Death,2.0822
+240,134,Patchwork,2.0814
+241,755,Railroad Ink Challenge: Lush Green Edition,2.0752
+242,192,Radlands,2.0623
+243,535,Point Salad,2.0612
+244,953,The Lost Expedition,2.0597
+245,531,Undaunted: North Africa,2.058
+246,194,Jaipur,2.0556
+247,731,Lord of the Rings: The Confrontation,2.0548
+248,247,YINSH,2.0519
+249,880,Railroad Ink: Blazing Red Edition,2.039
+250,550,BattleLore,2.0345
+251,657,Dice Throne: Season One,2.03
+252,973,Zombicide: Invader,2.0149
+253,603,The Grizzled,2.0
+254,883,Space Hulk,2.0
+255,163,Res Arcana,1.9955
+256,419,Star Wars: Armada,1.9944
+257,591,Ingenious,1.9932
+258,623,Legends of Andor,1.9925
+259,310,T.I.M.E Stories,1.9908
+260,30,Root,1.9904
+261,329,Telestrations,1.9886
+262,409,San Juan,1.9882
+263,41,Heat: Pedal to the Metal,1.9873
+264,494,Mice and Mystics,1.9872
+265,860,Blokus,1.9868
+266,475,Mythic Battles: Pantheon,1.9795
+267,49,Cascadia,1.9759
+268,252,Combat Commander: Europe,1.973
+269,545,Massive Darkness 2: Hellscape,1.973
+270,464,King of Tokyo: Dark Edition,1.9703
+271,801,Tash-Kalar: Arena of Legends,1.9692
+272,514,Dawn of the Zeds (Third Edition),1.9681
+273,297,Mind MGMT: The Psychic Espionage “Game.”,1.9636
+274,982,Roll Through the Ages: The Bronze Age,1.9635
+275,308,Skull King,1.959
+276,338,For Sale,1.9568
+277,554,Betrayal Legacy,1.9558
+278,862,Wizard,1.9548
+279,407,Ghost Stories,1.9534
+280,928,Last Bastion,1.9515
+281,56,Agricola,1.9462
+282,442,Blitzkrieg!: World War Two in 20 Minutes,1.9455
+283,698,Zombicide,1.945
+284,172,Too Many Bones: Undertow,1.9444
+285,976,Black Sonata,1.944
+286,943,Ohanami,1.9439
+287,914,Startups,1.9437
+288,154,Roll for the Galaxy,1.9409
+289,716,Telestrations: 12 Player Party Pack,1.9389
+290,836,Tiny Epic Dungeons,1.9354
+291,555,Pandemic: The Cure,1.9346
+292,873,Incan Gold,1.9333
+293,229,Star Wars: The Deckbuilding Game,1.9314
+294,269,Zombicide: Black Plague,1.9313
+295,576,Raptor,1.926
+296,79,Agricola (Revised Edition),1.9248
+297,537,Mystic Vale,1.9073
+298,482,Imperium: Legends,1.9
+299,267,Sushi Go Party!,1.8967
+300,595,Splendor: Marvel,1.8933
+301,97,Robinson Crusoe: Adventures on the Cursed Island,1.8885
+302,553,Potion Explosion,1.8882
+303,210,Sagrada,1.8876
+304,799,Top Ten,1.8868
+305,938,Arcadia Quest: Inferno,1.8859
+306,602,Love Letter: Premium Edition,1.8853
+307,536,Stuffed Fables,1.8842
+308,958,Codex Naturalis,1.8823
+309,13,Twilight Struggle,1.8822
+310,440,Cartographers Heroes,1.8809
+311,100,SCOUT,1.8783
+312,628,Galaxy Trucker (Second Edition),1.8701
+313,474,Biblios,1.8698
+314,616,Unmatched Adventures: Tales to Amaze,1.8686
+315,481,Space Hulk (Third Edition),1.8667
+316,725,Living Forest,1.8659
+317,112,Splendor Duel,1.8639
+318,12,Gaia Project,1.8618
+319,152,Just One,1.8592
+320,35,Mage Knight Board Game,1.8587
+321,170,Ticket to Ride: Europe,1.8562
+322,796,Space Hulk: Death Angel – The Card Game,1.8562
+323,102,The Search for Planet X,1.8538
+324,793,The Shipwreck Arcana,1.8531
+325,318,Seasons,1.853
+326,29,Lost Ruins of Arnak,1.8517
+327,105,Decrypto,1.849
+328,663,Azul: Queen's Garden,1.8471
+329,227,Captain Sonar,1.8403
+330,681,Silver & Gold,1.8395
+331,436,Mage Wars Arena,1.8333
+332,62,Obsession,1.8328
+333,189,Unmatched: Cobble & Fog,1.8255
+334,15,The Castles of Burgundy,1.8242
+335,450,Dice Forge,1.8212
+336,785,Oh My Goods!,1.8172
+337,439,Saint Petersburg,1.816
+338,644,Carcassonne: Hunters and Gatherers,1.8152
+339,503,Caper: Europe,1.8105
+340,627,Karuba,1.8083
+341,44,Pax Pamir: Second Edition,1.8078
+342,814,Menara,1.8074
+343,57,Cthulhu: Death May Die,1.8072
+344,132,Voidfall,1.8059
+345,48,Puerto Rico,1.8052
+346,794,Carcassonne: The Castle,1.8036
+347,813,Wits & Wagers,1.8035
+348,697,Zombicide: Green Horde,1.8032
+349,724,Taluva,1.8014
+350,260,Camel Up (Second Edition),1.8004
+351,348,Imperial Settlers,1.8
+352,368,Nusfjord,1.7994
+353,848,Rhino Hero: Super Battle,1.799
+354,270,Flamme Rouge,1.7985
+355,373,Project L,1.7972
+356,791,Love Letter: Batman,1.7939
+357,926,Dungeons & Dragons: The Legend of Drizzt Board Game,1.7899
+358,103,Wingspan Asia,1.787
+359,490,Flash Point: Fire Rescue,1.7831
+360,447,Downforce,1.7755
+361,733,Elder Sign,1.7731
+362,624,Horizons of Spirit Island,1.7692
+363,414,Frostpunk: The Board Game,1.7642
+364,31,Terra Mystica,1.7639
+365,250,Calico,1.7626
+366,811,Earth Reborn,1.7625
+367,513,The Vale of Eternity,1.7619
+368,701,Gears of War: The Board Game,1.7619
+369,528,High Society,1.7618
+370,564,Descent: Journeys in the Dark,1.7607
+371,196,Planet Unknown,1.7532
+372,284,Tapestry,1.7531
+373,596,Fleet: The Dice Game,1.7514
+374,916,Squad Leader,1.75
+375,396,Gizmos,1.7493
+376,986,Thunderstone,1.74
+377,402,BattleLore: Second Edition,1.7394
+378,422,The Guild of Merchant Explorers,1.736
+379,18,Scythe,1.7354
+380,737,Pax Renaissance,1.7348
+381,377,Burgle Bros.,1.7332
+382,855,Deep Sea Adventure,1.7288
+383,27,Great Western Trail: Second Edition,1.725
+384,709,Three Sisters,1.7244
+385,524,Imperial Settlers: Empires of the North,1.7242
+386,996,Istanbul: The Dice Game,1.7214
+387,804,Wir sind das Volk!,1.7207
+388,67,Maracaibo,1.7113
+389,411,"Air, Land, & Sea",1.7069
+390,176,Stone Age,1.7057
+391,275,Glory to Rome,1.7028
+392,704,Conan,1.7024
+393,660,Let's Go! To Japan,1.7019
+394,249,Near and Far,1.7014
+395,956,Forbidden Island,1.7009
+396,929,Morels,1.6993
+397,220,Ticket to Ride: Nordic Countries,1.6991
+398,966,Evergreen,1.6991
+399,290,Detective: A Modern Crime Board Game,1.6985
+400,496,Thunderstone Quest,1.6984
+401,441,Arkham Horror,1.6979
+402,500,Claustrophobia,1.6967
+403,740,High Frontier 4 All,1.6951
+404,775,D-Day at Omaha Beach,1.694
+405,504,The LOOP,1.6923
+406,458,Tiny Towns,1.6897
+407,38,Everdell,1.6861
+408,858,Thunderstone Advance: Towers of Ruin,1.682
+409,923,Parade,1.6811
+410,912,Dale of Merchants,1.6803
+411,648,Pax Porfiriana,1.6731
+412,983,Stella: Dixit Universe,1.672
+413,365,Tiny Epic Galaxies,1.6698
+414,728,Cacao,1.6673
+415,656,Detective: City of Angels,1.6667
+416,405,Takenoko,1.6653
+417,202,This War of Mine: The Board Game,1.665
+418,24,A Feast for Odin,1.6649
+419,17,Dune: Imperium – Uprising,1.6635
+420,910,Celestia,1.6617
+421,413,Agricola: All Creatures Big and Small,1.6578
+422,395,SETI: Search for Extraterrestrial Intelligence,1.6541
+423,263,Century: Golem Edition,1.6512
+424,197,Earth,1.6507
+425,748,Verdant,1.6504
+426,529,Bohnanza,1.65
+427,540,Citadels,1.6494
+428,104,The White Castle,1.6493
+429,385,Arboretum,1.6491
+430,463,San Juan (Second Edition),1.6452
+431,293,Chronicles of Crime,1.6442
+432,375,Small World,1.6439
+433,126,Eldritch Horror,1.641
+434,358,Century: Spice Road,1.6407
+435,847,Advanced Squad Leader: Starter Kit #1,1.6396
+436,920,Jambo,1.6388
+437,692,Whitehall Mystery,1.6385
+438,421,51st State: Master Set,1.6372
+439,975,"13 Days: The Cuban Missile Crisis, 1962",1.6359
+440,349,Nemo's War (Second Edition),1.6343
+441,542,Feed the Kraken,1.6341
+442,238,Nidavellir,1.6332
+443,476,Wavelength,1.6325
+444,274,Samurai,1.632
+445,39,Viticulture Essential Edition,1.6297
+446,511,Unsettled,1.6286
+447,71,Age of Innovation,1.6282
+448,558,Forbidden Desert,1.6282
+449,672,Project: ELITE,1.628
+450,366,Destinies,1.627
+451,674,Paperback,1.6267
+452,68,The Quacks of Quedlinburg,1.6256
+453,934,Wandering Towers,1.625
+454,435,At the Gates of Loyang,1.6213
+455,166,Watergate,1.621
+456,570,Thurn and Taxis,1.6199
+457,388,Bärenpark,1.6191
+458,505,Reign of Cthulhu,1.6183
+459,609,Camel Up,1.6164
+460,160,The Isle of Cats,1.6162
+461,117,Tigris & Euphrates,1.616
+462,319,Dixit: Odyssey,1.6147
+463,6,Dune: Imperium,1.6135
+464,864,Disney Villainous: The Worst Takes it All,1.6125
+465,539,Endeavor: Deep Sea,1.6066
+466,579,"Labyrinth: The War on Terror, 2001 – ?",1.6062
+467,854,CO₂: Second Chance,1.6054
+468,398,Dixit,1.6045
+469,979,Luxor,1.604
+470,906,Not Alone,1.6028
+471,869,Kanagawa,1.6024
+472,276,Hallertau,1.599
+473,174,Praga Caput Regni,1.5985
+474,853,Eminent Domain,1.5984
+475,208,Cosmic Encounter,1.5982
+476,122,The Quest for El Dorado,1.5884
+477,404,Ginkgopolis,1.588
+478,828,Villagers,1.588
+479,782,Tokaido,1.5864
+480,989,Red Rising,1.5847
+481,88,The Lord of the Rings: Duel for Middle-earth,1.5833
+482,519,A Few Acres of Snow,1.5833
+483,779,The Bloody Inn,1.5833
+484,585,Pagan: Fate of Roanoke,1.5816
+485,622,The Fox in the Forest,1.5807
+486,406,Mysterium,1.5803
+487,600,Las Vegas,1.5794
+488,915,Zombicide Season 2: Prison Outbreak,1.5742
+489,84,Clank!: A Deck-Building Adventure,1.5741
+490,180,Terraforming Mars: Ares Expedition,1.5724
+491,213,Horrified,1.5714
+492,781,Babylonia,1.5714
+493,815,Leaving Earth,1.5714
+494,965,Combat Commander: Pacific,1.5714
+495,425,Unmatched: Robin Hood vs. Bigfoot,1.5689
+496,863,Paris: La Cité de la Lumière,1.5686
+497,462,Azul: Stained Glass of Sintra,1.5684
+498,557,Junk Art,1.5676
+499,757,Unlock!: Timeless Adventures,1.5658
+500,878,Dice Hospital,1.5595
+501,323,Long Shot: The Dice Game,1.5588
+502,990,Last Night on Earth: The Zombie Game,1.5584
+503,457,Cubitos,1.5562
+504,272,Roll Player,1.5533
+505,543,Canvas,1.5519
+506,931,Pandemic: Rising Tide,1.5516
+507,89,Lords of Waterdeep,1.5515
+508,94,Revive,1.5497
+509,347,The King Is Dead: Second Edition,1.5479
+510,86,Fields of Arle,1.5477
+511,706,Quantum,1.5459
+512,287,Galaxy Trucker,1.5442
+513,21,Brass: Lancashire,1.5441
+514,610,Dinosaur Island: Rawr 'n Write,1.5441
+515,429,Fall of Rome,1.5426
+516,761,Sub Terra,1.5421
+517,484,Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures,1.5415
+518,992,Formula Dé,1.5407
+519,137,Russian Railroads,1.5405
+520,64,Grand Austria Hotel,1.5391
+521,149,Iberia,1.5382
+522,364,Awkward Guests: The Walton Case,1.5382
+523,353,Glass Road,1.5374
+524,212,Castles of Mad King Ludwig,1.5371
+525,241,The Taverns of Tiefenthal,1.5362
+526,581,Alhambra,1.5333
+527,332,Arkham Horror (Third Edition),1.533
+528,69,Clans of Caledonia,1.5324
+529,871,Ricochet Robots,1.5318
+530,343,Cat in the Box: Deluxe Edition,1.5317
+531,295,Monikers,1.5309
+532,917,King of New York,1.5291
+533,901,Unlock!: Epic Adventures,1.5286
+534,99,The Voyages of Marco Polo,1.5285
+535,92,Beyond the Sun,1.5257
+536,217,Azul: Summer Pavilion,1.5256
+537,818,Defenders of the Realm,1.5251
+538,344,The Great Zimbabwe,1.5244
+539,722,Time's Up!,1.5205
+540,534,Fantastic Factories,1.5191
+541,941,Roam,1.5185
+542,741,Chronicles of Crime: 1400,1.5168
+543,114,Carnegie,1.5139
+544,699,Evolution,1.5136
+545,631,Vikings,1.5133
+546,593,Blackout: Hong Kong,1.5123
+547,532,Trekking Through History,1.5121
+548,8,War of the Ring: Second Edition,1.5114
+549,182,Viscounts of the West Kingdom,1.5112
+550,575,Dune: War for Arrakis,1.5111
+551,145,Arcs,1.5109
+552,687,Scholars of the South Tigris,1.51
+553,521,Colt Express,1.5055
+554,113,Architects of the West Kingdom,1.5048
+555,90,Teotihuacan: City of Gods,1.5025
+556,665,Unlock!: Heroic Adventures,1.5019
+557,842,New Frontiers,1.5004
+558,693,War of the Ring: The Card Game,1.5
+559,803,Smash Up: Awesome Level 9000,1.5
+560,875,Caverna: Cave vs Cave,1.5
+561,370,Wayfarers of the South Tigris,1.4978
+562,70,Le Havre,1.4965
+563,710,Yellow & Yangtze,1.4958
+564,159,Wyrmspan,1.4937
+565,614,First Class: All Aboard the Orient Express!,1.4922
+566,806,Dragon Castle,1.4911
+567,36,Barrage,1.49
+568,677,Unmatched: Jurassic Park – InGen vs Raptors,1.4886
+569,228,Suburbia,1.4871
+570,523,Citadels,1.4831
+571,131,Ra,1.4828
+572,620,Valeria: Card Kingdoms,1.4827
+573,63,Mansions of Madness: Second Edition,1.4805
+574,744,Star Wars: The Clone Wars,1.4781
+575,22,Nemesis,1.4759
+576,158,Targi,1.475
+577,717,The Downfall of Pompeii,1.475
+578,101,Darwin's Journey,1.4744
+579,714,Formula D,1.4741
+580,566,Oceans,1.4715
+581,472,Andromeda's Edge,1.4706
+582,186,Istanbul,1.4704
+583,357,Bunny Kingdom,1.47
+584,428,Newton,1.47
+585,608,Runebound (Third Edition),1.4694
+586,638,Space Empires 4X,1.4681
+587,45,Underwater Cities,1.4672
+588,65,Tzolk'in: The Mayan Calendar,1.4671
+589,987,Ca$h 'n Guns: Second Edition,1.466
+590,713,Betrayal at House on the Hill,1.4645
+591,16,Great Western Trail,1.4642
+592,416,Blood Bowl: Team Manager – The Card Game,1.4621
+593,242,Paths of Glory,1.4615
+594,921,Letter Jam,1.4615
+595,412,Abyss,1.4608
+596,369,Thunder Road: Vendetta,1.4603
+597,43,Food Chain Magnate,1.4598
+598,109,Battlestar Galactica: The Board Game,1.4588
+599,315,Cthulhu Wars,1.4584
+600,845,New York Zoo,1.4583
+601,73,Paladins of the West Kingdom,1.4582
+602,50,Caverna: The Cave Farmers,1.4581
+603,766,AuZtralia,1.4557
+604,320,Distilled,1.4548
+605,125,Troyes,1.4532
+606,526,Unmatched: Little Red Riding Hood vs. Beowulf,1.4502
+607,843,Reef,1.4501
+608,273,Isle of Skye: From Chieftain to King,1.4486
+609,833,Between Two Cities,1.4476
+610,207,Meadow,1.4468
+611,561,Through the Desert,1.4444
+612,417,Carpe Diem,1.4443
+613,607,RoboRally,1.4438
+614,82,Clank!: Catacombs,1.4409
+615,178,Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases,1.44
+616,239,Return to Dark Tower,1.4378
+617,380,Raiders of Scythia,1.4367
+618,473,Ready Set Bet,1.4358
+619,350,Survive: Escape from Atlantis!,1.4338
+620,495,Woodcraft,1.4328
+621,155,PARKS,1.432
+622,825,K2,1.4317
+623,1,Brass: Birmingham,1.4288
+624,810,Diplomacy,1.4286
+625,678,Cooper Island,1.4285
+626,850,Ezra and Nehemiah,1.4272
+627,940,XCOM: The Board Game,1.4271
+628,233,Dead of Winter: A Crossroads Game,1.4262
+629,729,Beer & Bread,1.4248
+630,643,Time's Up! Title Recall!,1.4242
+631,606,Discworld: Ankh-Morpork,1.424
+632,827,My Little Scythe,1.4236
+633,707,Hammer of the Scots,1.4211
+634,361,Bruges,1.4204
+635,765,The Oracle of Delphi,1.4177
+636,123,Caylus,1.4174
+637,394,Letters from Whitechapel,1.4144
+638,849,Yspahan,1.4138
+639,116,Great Western Trail: New Zealand,1.4129
+640,824,Empire of the Sun: The Pacific War 1941-1945,1.4118
+641,908,Merchants Cove,1.4115
+642,517,Glen More,1.4106
+643,165,Tyrants of the Underdark,1.41
+644,736,Trains,1.4076
+645,206,The Red Cathedral,1.4074
+646,301,Oath,1.4065
+647,573,Aquatica,1.4056
+648,415,Dead Reckoning,1.4044
+649,312,Forgotten Waters,1.4031
+650,139,Age of Steam,1.4029
+651,530,Hadara,1.4029
+652,118,Raiders of the North Sea,1.4028
+653,969,Life of the Amazonia,1.4008
+654,291,Viticulture,1.4006
+655,135,Nemesis: Lockdown,1.4003
+656,399,Tekhenu: Obelisk of the Sun,1.4
+657,107,Inis,1.399
+658,53,On Mars,1.3985
+659,351,The Witcher: Old World,1.3978
+660,889,SpaceCorp: 2025-2300AD,1.3976
+661,157,Rajas of the Ganges,1.3973
+662,872,Circadians: First Light,1.3967
+663,592,Freedom: The Underground Railroad,1.3964
+664,859,Finca,1.3958
+665,841,La Granja: Deluxe Master Set,1.3957
+666,47,Kanban EV,1.3952
+667,34,Orléans,1.3949
+668,894,Unfair,1.3947
+669,560,Deus,1.3941
+670,83,Five Tribes: The Djinns of Naqala,1.3936
+671,664,Weather Machine,1.393
+672,797,Trismegistus: The Ultimate Formula,1.3924
+673,147,Clank! In! Space!: A Deck-Building Adventure,1.3921
+674,546,Shadows over Camelot,1.3897
+675,54,Blood Rage,1.3889
+676,66,Power Grid,1.3887
+677,381,Bonfire,1.3887
+678,823,Messina 1347,1.3879
+679,676,The Colonists,1.3878
+680,424,Hannibal: Rome vs. Carthage,1.3871
+681,426,Expeditions,1.3868
+682,52,Anachrony,1.3866
+683,248,Nations,1.3865
+684,258,La Granja,1.3863
+685,181,Nucleum,1.3838
+686,85,Eclipse: New Dawn for the Galaxy,1.3836
+687,306,Tiletum,1.3822
+688,574,World Wonders,1.3822
+689,605,Wabash Cannonball,1.3816
+690,190,Marco Polo II: In the Service of the Khan,1.3793
+691,199,War of the Ring,1.3784
+692,562,Mansions of Madness,1.3782
+693,294,Lewis & Clark: The Expedition,1.3767
+694,466,Evolution: Climate,1.3765
+695,735,Mille Fiori,1.3764
+696,587,1846: The Race for the Midwest,1.3758
+697,453,In the Year of the Dragon,1.375
+698,288,Anno 1800: The Board Game,1.3739
+699,995,Pictomania,1.3731
+700,193,Xia: Legends of a Drift System,1.37
+701,650,Queendomino,1.3697
+702,703,Golem,1.3692
+703,187,Glen More II: Chronicles,1.369
+704,167,Alchemists,1.3685
+705,559,Sheriff of Nottingham,1.3675
+706,972,Zoo Vadis,1.3672
+707,209,Sekigahara: The Unification of Japan,1.3669
+708,851,Khôra: Rise of an Empire,1.3658
+709,738,Fort,1.3656
+710,470,Firefly: The Game,1.3654
+711,203,Star Wars: Outer Rim,1.3651
+712,567,Imhotep,1.3651
+713,792,Century: A New World,1.3651
+714,904,Hannibal & Hamilcar,1.3642
+715,211,Great Western Trail: Argentina,1.3626
+716,222,A Game of Thrones: The Board Game (Second Edition),1.3621
+717,136,Trajan,1.3606
+718,629,Archipelago,1.3604
+719,459,Boonlake,1.3581
+720,909,Inventions: Evolution of Ideas,1.3556
+721,333,Apiary,1.3551
+722,491,Stockpile,1.3529
+723,96,Concordia Venus,1.3508
+724,119,Dwellings of Eldervale,1.3498
+725,763,The Magnificent,1.3498
+726,816,City of the Big Shoulders,1.3483
+727,918,Clinic: Deluxe Edition,1.3472
+728,277,Vindication,1.3464
+729,968,Evacuation,1.3458
+730,72,The Gallerist,1.3457
+731,518,Pipeline,1.3456
+732,759,Twilight Inscription,1.3453
+733,355,Tikal,1.3451
+734,285,1830: Railways & Robber Barons,1.3443
+735,789,Dixit: Journey,1.3443
+736,216,Railways of the World,1.344
+737,379,Merchants & Marauders,1.3435
+738,774,Ticket to Ride: Rails & Sails,1.3425
+739,60,Lisboa,1.3409
+740,363,Heaven & Ale,1.3396
+741,525,Black Rose Wars,1.3377
+742,384,Dead of Winter: The Long Night,1.3373
+743,753,Snowdonia,1.336
+744,580,QE,1.3347
+745,621,Jamaica,1.3343
+746,25,Concordia,1.3333
+747,316,Ethnos,1.3333
+748,688,Medici,1.3333
+749,974,Civolution,1.3333
+750,998,Beast,1.3333
+751,477,Imperial Struggle,1.3324
+752,597,Skymines,1.332
+753,925,Brazil: Imperial,1.3303
+754,488,Nippon,1.3301
+755,705,First Rat,1.3297
+756,776,Treasure Island,1.3289
+757,831,Century: Eastern Wonders,1.3281
+758,345,Acquire,1.3277
+759,970,Star Trek: Fleet Captains,1.3275
+760,893,Cerebria: The Inside World,1.3269
+761,390,Sid Meier's Civilization: The Board Game,1.3268
+762,480,Santa Maria,1.3256
+763,456,London (Second Edition),1.3254
+764,493,Kingsburg,1.3254
+765,124,Lorenzo il Magnifico,1.3242
+766,454,Ticket to Ride: Märklin,1.3235
+767,669,Creature Comforts,1.3234
+768,437,Marrakesh,1.3231
+769,877,Crown of Emara,1.3229
+770,391,Furnace,1.3228
+771,148,Forbidden Stars,1.3226
+772,852,Blue Moon City,1.3217
+773,115,Keyflower,1.3216
+774,218,Modern Art,1.3212
+775,690,Barcelona,1.3199
+776,253,Cyclades,1.3181
+777,9,Star Wars: Rebellion,1.318
+778,658,Roads & Boats,1.3179
+779,902,Black Angel,1.3178
+780,520,Quadropolis,1.3176
+781,143,Hansa Teutonica,1.3172
+782,881,Saint Petersburg (Second Edition),1.3171
+783,666,Tobago,1.3169
+784,661,Egizia,1.315
+785,977,Washington's War,1.3138
+786,905,Vast: The Crystal Caverns,1.3137
+787,501,Black Orchestra,1.3135
+788,133,Twilight Imperium: Third Edition,1.3129
+789,144,Vinhos: Deluxe Edition,1.3125
+790,984,Carcassonne: The City,1.3125
+791,19,Eclipse: Second Dawn for the Galaxy,1.3114
+792,882,Ex Libris,1.311
+793,289,Endless Winter: Paleoamericans,1.3107
+794,637,StarCraft: The Board Game,1.3107
+795,150,Yokohama,1.3097
+796,874,Blue Lagoon,1.3097
+797,432,Notre Dame,1.3094
+798,696,The Battle of Five Armies,1.306
+799,584,Kutná Hora: The City of Silver,1.3059
+800,865,The Pursuit of Happiness,1.305
+801,235,Clash of Cultures: Monumental Edition,1.3046
+802,492,Macao,1.3036
+803,445,Honey Buzz,1.3032
+804,651,Crusaders: Thy Will Be Done,1.3032
+805,280,Kanban: Driver's Edition,1.3028
+806,726,Disney Villainous: Wicked to the Core,1.3022
+807,830,Specter Ops,1.3001
+808,420,Lords of Hellas,1.2999
+809,939,Stationfall,1.2996
+810,382,Above and Below,1.2993
+811,234,Ankh: Gods of Egypt,1.2971
+812,933,Among the Stars,1.2965
+813,533,Fire in the Lake,1.2963
+814,508,Libertalia: Winds of Galecrest,1.2956
+815,667,Triumph & Tragedy: European Balance of Power 1936-1945,1.2956
+816,632,Euphoria: Build a Better Dystopia,1.295
+817,652,Nexus Ops,1.2935
+818,106,Trickerion: Legends of Illusion,1.2929
+819,612,Libertalia,1.2925
+820,255,John Company: Second Edition,1.2922
+821,590,1775: Rebellion,1.2915
+822,200,Chaos in the Old World,1.2909
+823,778,Federation,1.2909
+824,257,Dinosaur Island,1.2899
+825,819,Witchstone,1.2897
+826,679,Cuba Libre,1.2895
+827,485,Millennium Blades,1.2885
+828,636,Unconscious Mind,1.2881
+829,750,Civilization: A New Dawn,1.288
+830,336,Dungeon Petz,1.2873
+831,91,El Grande,1.2864
+832,325,The Manhattan Project: Energy Empire,1.2857
+833,700,A Game of Thrones,1.2857
+834,376,Flamecraft,1.284
+835,397,Dungeon Lords,1.2835
+836,625,Elysium,1.2831
+837,838,Moonrakers,1.2826
+838,767,Torres,1.2819
+839,957,Reef Encounter,1.2817
+840,372,Runewars,1.2797
+841,55,Hegemony: Lead Your Class to Victory,1.2795
+842,764,Disney Villainous: Evil Comes Prepared,1.2792
+843,296,Bitoku,1.2776
+844,746,Merv: The Heart of the Silk Road,1.276
+845,723,Between Two Castles of Mad King Ludwig,1.2756
+846,924,Tang Garden,1.2756
+847,844,Detective Club,1.2744
+848,387,Antiquity,1.2736
+849,935,1989: Dawn of Freedom,1.2727
+850,153,Champions of Midgard,1.2725
+851,478,The Great Wall,1.2719
+852,146,Wonderland's War,1.2712
+853,787,The Estates,1.2709
+854,300,Steam,1.2705
+855,292,1960: The Making of the President,1.2703
+856,634,Madeira,1.2703
+857,988,Catacombs (Third Edition),1.2703
+858,198,Dune,1.2675
+859,802,Fury of Dracula (Second Edition),1.2667
+860,327,Foundations of Rome,1.2648
+861,626,Last Will,1.2642
+862,642,Tales of the Arabian Nights,1.2638
+863,231,Village,1.2635
+864,594,Small World Underground,1.2612
+865,879,Disney Villainous: Perfectly Wretched,1.2609
+866,371,Alien Frontiers,1.2608
+867,223,Ora et Labora,1.2603
+868,271,The Princes of Florence,1.2603
+869,299,Bora Bora,1.2596
+870,179,Endeavor: Age of Sail,1.2587
+871,506,The Manhattan Project,1.2581
+872,431,The Pillars of the Earth,1.2569
+873,946,Friedrich,1.2564
+874,461,Bruxelles 1893,1.2544
+875,427,Altiplano,1.2532
+876,891,Super Motherload,1.2526
+877,177,Kemet,1.2511
+878,857,Middle-Earth Quest,1.25
+879,756,Shakespeare,1.2489
+880,438,Gùgōng,1.2472
+881,328,Imperial,1.2466
+882,962,Spyrium,1.2453
+883,630,Atlantis Rising (Second Edition),1.2447
+884,469,Spartacus: A Game of Blood and Treachery,1.2439
+885,947,Imperial Steam,1.2439
+886,886,World Without End,1.2434
+887,618,Lacrimosa,1.2432
+888,129,Mombasa,1.2423
+889,583,Escape Plan,1.2415
+890,719,Photosynthesis,1.2413
+891,655,Star Trek: Ascendancy,1.2407
+892,278,Western Legends,1.2384
+893,548,Lords of Vegas,1.2374
+894,617,London,1.2361
+895,795,Myrmes,1.2357
+896,282,Pulsar 2849,1.2348
+897,870,878 Vikings: Invasions of England,1.2338
+898,832,The Networks,1.2337
+899,895,Cry Havoc,1.2333
+900,245,Coimbra,1.2332
+901,487,Clash of Cultures,1.2326
+902,760,Feudum,1.2324
+903,341,Age of Empires III: The Age of Discovery,1.2302
+904,646,Broom Service,1.23
+905,659,Vinhos,1.229
+906,695,Carson City,1.2273
+907,639,In the Hall of the Mountain King,1.225
+908,899,"Heroes of Land, Air & Sea",1.2245
+909,670,AquaSphere,1.2244
+910,821,Steampunk Rally,1.224
+911,898,Gentes,1.2233
+912,888,Raccoon Tycoon,1.2231
+913,460,IKI,1.2228
+914,354,Fury of Dracula (Third/Fourth Edition),1.2222
+915,788,Shikoku 1889,1.2222
+916,694,Thebes,1.2219
+917,981,Hyperborea,1.22
+918,993,Akrotiri,1.22
+919,932,Outlive,1.2199
+920,772,Cuba,1.2198
+921,5,Twilight Imperium: Fourth Edition,1.2193
+922,549,Amerigo,1.2185
+923,732,Brian Boru: High King of Ireland,1.2181
+924,367,Chinatown,1.2174
+925,467,Pan Am,1.2172
+926,955,Rurik: Dawn of Kiev,1.2168
+927,330,Navegador,1.2152
+928,389,Mission: Red Planet (Second/Third Edition),1.2115
+929,786,Luna,1.2105
+930,486,Fresco,1.2101
+931,408,Maria,1.2083
+932,283,Goa: A New Expedition,1.2073
+933,141,Rising Sun,1.2065
+934,430,Smartphone Inc.,1.2061
+935,930,Battle for Rokugan,1.2051
+936,619,Airlines Europe,1.2034
+937,95,Dominant Species,1.2
+938,497,Dune,1.2
+939,861,Wallenstein,1.2
+940,936,Lords of Xidit,1.2
+941,721,Mare Nostrum: Empires,1.1992
+942,434,The Godfather: Corleone's Empire,1.1965
+943,673,My Father's Work,1.196
+944,340,Power Grid Deluxe: Europe/North America,1.1944
+945,868,Shipyard,1.1944
+946,980,Caylus 1303,1.194
+947,948,Tribune: Primus Inter Pares,1.1907
+948,754,Churchill,1.1905
+949,826,Coal Baron,1.1892
+950,718,Mosaic: A Story of Civilization,1.1875
+951,942,Dinosaur World,1.1861
+952,837,Vegas Showdown,1.1852
+953,326,Indonesia,1.1843
+954,302,Kemet: Blood and Sand,1.184
+955,985,Nightmare Productions,1.1826
+956,887,A War of Whispers,1.1822
+957,286,Shogun,1.1818
+958,311,Rococo,1.1818
+959,512,Lancaster,1.1765
+960,817,Prêt-à-Porter,1.1765
+961,452,Endeavor,1.1746
+962,577,Argent: The Consortium,1.1732
+963,952,Vasco da Gama,1.1724
+964,471,Here I Stand,1.1714
+965,911,Abomination: The Heir of Frankenstein,1.1707
+966,967,Yedo,1.1707
+967,742,Dominant Species: Marine,1.1693
+968,770,Belfort,1.1686
+969,578,Bus,1.1667
+970,822,Crystal Palace,1.1667
+971,829,ZhanGuo,1.1667
+972,897,Santiago,1.1667
+973,994,Union Pacific,1.1667
+974,777,Whistle Mountain,1.1644
+975,800,Arkwright,1.1633
+976,780,Yamataï,1.161
+977,544,Amun-Re,1.1606
+978,907,Panamax,1.1588
+979,360,Imperial 2030,1.1538
+980,954,Scoville,1.1478
+981,653,Colosseum,1.1467
+982,752,The Republic of Rome,1.1464
+983,468,Civilization,1.1429
+984,978,Container,1.1429
+985,392,Sidereal Confluence,1.1397
+986,684,Automobile,1.1378
+987,991,San Marco,1.1333
+988,635,Taj Mahal,1.1325
+989,840,Dogs of War,1.1304
+990,773,Mexica,1.129
+991,601,Unfathomable,1.1268
+992,885,Empires: Age of Discovery,1.125
+993,691,Francis Drake,1.122
+994,683,Struggle of Empires,1.1132
+995,903,Tammany Hall,1.1042
+996,451,Die Macher,1.0597
+997,374,Exit: The Game – The Abandoned Cabin,1.0227
+998,892,Exit: The Game – The Secret Lab,1.0196
+999,556,Exit: The Game – Dead Man on the Orient Express,1.0187
+1000,798,Exit: The Game – The Pharaoh's Tomb,1.0116

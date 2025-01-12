@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup
 
 class Thing:
     def __init__(self, id_):
@@ -9,23 +9,15 @@ class Thing:
     
     def value(self, name):
         soup = self.soup.find(name)
-        if isinstance(soup, Tag) and soup.has_attr('value'):
-            return soup['value']
+        return soup['value']
     
     def number(self, name):
         value = self.value(name)
-        if isinstance(value, str):
-            try:
-                return int(value)
-            except:
-                return 0
-        return 0
+        return int(value)
     
     def string(self, name):
         value = self.value(name)
-        if isinstance(value, str):
-            return value
-        return ""
+        return str(value)
     
 if __name__ == '__main__':
     game = Thing(240980)

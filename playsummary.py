@@ -3,18 +3,12 @@ import polars as pl
 
 from datetime import datetime
 from xmlapi2 import Thing
+from tenacity import retry, wait_exponential
 
+@retry(wait=wait_exponential())
 def data(game_id):
     url = f'https://boardgamegeek.com/playsummary/thing/{game_id}'
-    
-    api_response = None
-    while not api_response:
-        try:
-            api_response = Thing(game_id)
-        except:
-            continue
-    
-    yearpublished = api_response.number('yearpublished')
+    yearpublished = Thing(game_id).number('yearpublished')
     
     df = (
         pl.from_pandas(
