@@ -11,11 +11,12 @@ for page in range(10):
     print(url)
 
     response = requests.get(url)
-    soup = BeautifulSoup(response.content)
+    soup = BeautifulSoup(response.content, features='lxml')
 
     for row in soup("tr"):
-        if rank := row.find('td', class_='collection_rank'):
-            link = row.find('a', class_='primary')
+        if rank := row.find('td', 'collection_rank'):
+            link = row.find('a', 'primary')
+            year = row.find('span', 'smallerfont')
             ranks.append(int(rank.text))
             names.append(link.text.strip())
             ids.append(int(link['href'].split('/')[2]))
